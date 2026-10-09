@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production build outputs
+dist/
+dist-ssr/
+build/
+coverage/
+*.tsbuildinfo
+
+# Environment variables & local secrets
+.env
+.env.*
+!.env.example
+.dev.env.json
+.dev.pid
+
+# Certificates, keys, and tokens
+*.pem
+*.key
+*.pub
+*.cert
+*.crt
+*.pfx
+*.p12
+
+# Logs and debug databases
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime and local state
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

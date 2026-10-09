@@ -1,0 +1,8 @@
+{
+  "name": "Kirchat Revenue & Operations Dashboard",
+  "description": "Executive SaaS metrics, interactive financial ledger, cohort health analytics, and real-time operational telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
